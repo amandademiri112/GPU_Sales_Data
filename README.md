@@ -4,7 +4,7 @@
 # GPU Sales Data (Uncomplete)
 #### Upcoming GPU Sales Data analysis using Jupyter Notebook and Python
 
-## Contents  
+## Contents   
 - [Purpose](#purpose)
 - [Dashboard](#dashboard)
 - [Objectives](#objectives)
