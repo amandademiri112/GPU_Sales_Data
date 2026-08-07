@@ -61,6 +61,7 @@ Furthermore, in a professional setting I would investigate these results further
 -Correlation Matrix  
  
 ## Cleaned Table Preview  
+  
 ![Cleaned Table Preview](GPU_Sales_Table_Preview.PNG)  
 
 ## Chart Previews  
@@ -81,5 +82,4 @@ Furthermore, in a professional setting I would investigate these results further
 ## Final Project
 **[Go to Final Project](./GPU_Sales_Analysis.ipynb)**
 
-###### Jupyter Notebook will be available in repository
-###### Dataset available in repository
+###### Original dataset available in repository
