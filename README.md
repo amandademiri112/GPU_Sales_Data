@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Python-green)
+![Static Badge](https://img.shields.io/badge/Python-darkgreen)
 ![Static Badge](https://img.shields.io/badge/Jupyter_Notebook-orange)
 
 # Python GPU Sales
