@@ -26,21 +26,10 @@ I created this project to demonstrate my Python and data analysis skills by expl
 -Draw conclusions and recommendations from the analysis.  
 
 ## Skills 
--Python  
--Pandas  
--NumPy  
--Data cleaning and preparation  
--Data type manipulation  
--Missing-value analysis  
--Exploratory Data Analysis (EDA)  
--Feature engineering  
--Creating derived columns  
--Data aggregation and grouping  
--Statistical analysis  
--Data visualisation with Matplotlib  
--Python programming and loops  
--Interpreting analytical results  
--Communicating insights and recommendations  
+Technical skills: Python, Pandas, NumPy, For loops, Data cleaning and preparation, Data type manipulation,  
+Missing-value analysis, Exploratory Data Analysis (EDA), Feature engineering, Derived columns,  
+Data aggregation and grouping, Statistical analysis, Data visualisation with Matplotlib.  
+Soft skills: Interpreting analytical results, Communicating insights and recommendations.
 
 ## Key Insights
 Key insights I gathered from the analysis were:  
@@ -60,7 +49,7 @@ Furthermore, in a professional setting I would investigate these results further
 -Revenue by Sales Channel  
 -Correlation Matrix  
  
-## Cleaned Table Preview  
+## Table Preview  
   
 ![Cleaned Table Preview](GPU_Sales_Table_Preview.PNG)  
 
