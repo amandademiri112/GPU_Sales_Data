@@ -29,6 +29,7 @@ I created this project to demonstrate my Python and data analysis skills by expl
 Technical skills: Python, Pandas, NumPy, For loops, Data cleaning and preparation, Data type manipulation,  
 Missing-value analysis, Exploratory Data Analysis (EDA), Feature engineering, Derived columns,  
 Data aggregation and grouping, Statistical analysis, Data visualisation with Matplotlib.  
+  
 Soft skills: Interpreting analytical results, Communicating insights and recommendations.
 
 ## Key Insights
