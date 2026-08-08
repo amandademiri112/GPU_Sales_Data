@@ -1,7 +1,7 @@
 ![Static Badge](https://img.shields.io/badge/Python-darkgreen)
 ![Static Badge](https://img.shields.io/badge/Jupyter_Notebook-orange)
 
-# Python GPU Sales
+# GPU Sales Analysis  
 #### Python project demonstrating data cleaning, exploratory data analysis, statistical analysis, feature engineering, and data visualisation using GPU sales data.
 
 ## Contents   
