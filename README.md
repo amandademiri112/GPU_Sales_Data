@@ -73,3 +73,4 @@ Furthermore, in a professional setting I would investigate these results further
 **[Go to Final Project](./GPU_Sales_Analysis.ipynb)**
 
 ###### Original dataset available in repository
+###### Plan to create a dashboard for the data with Power BI or Tableau in the future
