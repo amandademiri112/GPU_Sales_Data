@@ -83,7 +83,7 @@ I created this project to demonstrate my Python and data analysis skills by expl
 ![Correlation Matrix](Assets/Correlation_Matrix_Preview.PNG)  
 
 ## Final Project
-**[Go to Final Project](./GPU_Sales_Analysis.ipynb)**
+**[Go to Final Project](Notebooks/GPU_Sales_Analysis.ipynb)**
 
 ###### Original dataset available in repository
 ###### Plan to create a dashboard for the data with Power BI or Tableau in the future
