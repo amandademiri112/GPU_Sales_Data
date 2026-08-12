@@ -26,7 +26,7 @@ I created this project to demonstrate my Python and data analysis skills by expl
 - Draw conclusions and recommendations from the analysis.  
 
 ## Skills 
-**Technical skills:**  
+![Static Badge](https://img.shields.io/badge/Technical%20Skills-steelblue)    
 - Python
 - Pandas
 - NumPy
@@ -41,7 +41,7 @@ I created this project to demonstrate my Python and data analysis skills by expl
 - Statistical analysis
 - Data visualisation with Matplotlib  
   
-**Soft skills:**  
+![Static Badge](https://img.shields.io/badge/Soft%20Skills-9994C0)  
 - Interpreting analytical results
 - Communicating insights and recommendations  
   
