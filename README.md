@@ -65,22 +65,22 @@ I created this project to demonstrate my Python and data analysis skills by expl
  
 ## Table Preview  
   
-![Cleaned Table Preview](GPU_Sales_Table_Preview.PNG)  
+![Cleaned Table Preview](Assets/GPU_Sales_Table_Preview.PNG)  
 
 ## Chart Previews  
-![Units Sold vs Revenue](Units_Sold_vs_Revenue_Preview.PNG)  
+![Units Sold vs Revenue](Assets/Units_Sold_vs_Revenue_Preview.PNG)  
 
-![Total Revenue by GPU Model](Total_Revenue_by_GPU_Model_Preview.PNG)  
+![Total Revenue by GPU Model](Assets/Total_Revenue_by_GPU_Model_Preview.PNG)  
 
-![Total Units Sold by GPU Model](Total_Units_Sold_by_GPU_Model_Preview.PNG)  
+![Total Units Sold by GPU Model](Assets/Total_Units_Sold_by_GPU_Model_Preview.PNG)  
 
-![Revenue by Region](Revenue_by_Region_Preview.PNG)  
+![Revenue by Region](Assets/Revenue_by_Region_Preview.PNG)  
 
-![Revenue by Customer Segment](Revenue_by_Customer_Segment_Preview.PNG)   
+![Revenue by Customer Segment](Assets/Revenue_by_Customer_Segment_Preview.PNG)   
 
-![Revenue by Sales Channel](Revenue_by_Sales_Channel_Preview.PNG)  
+![Revenue by Sales Channel](Assets/Revenue_by_Sales_Channel_Preview.PNG)  
 
-![Correlation Matrix](Correlation_Matrix_Preview.PNG)  
+![Correlation Matrix](Assets/Correlation_Matrix_Preview.PNG)  
 
 ## Final Project
 **[Go to Final Project](./GPU_Sales_Analysis.ipynb)**
