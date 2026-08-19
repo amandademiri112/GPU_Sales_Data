@@ -86,4 +86,4 @@ I created this project to demonstrate my Python and data analysis skills by expl
 **[Go to Final Project](Notebooks/GPU_Sales_Analysis.ipynb)**
 
 ###### Original dataset available in repository
-###### Plan to create a dashboard for the data with Power BI or Tableau in the future
+###### Currently working on Tableau Dashboard for this project
