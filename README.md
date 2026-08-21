@@ -1,8 +1,8 @@
 ![Static Badge](https://img.shields.io/badge/Python-darkgreen)
-![Static Badge](https://img.shields.io/badge/Jupyter_Notebook-orange)
-
+![Static Badge](https://img.shields.io/badge/Tableau-teal)  
+  
 # GPU Sales Analysis  
-#### Python project demonstrating data cleaning, exploratory data analysis, statistical analysis, feature engineering, and data visualisation using GPU sales data.  
+#### Python and Tableau project demonstrating data cleaning, exploratory data analysis, statistical analysis, feature engineering, and data visualisation using GPU sales data.  
   
 ## Contents   
 - [Purpose](#purpose)  
@@ -14,7 +14,7 @@
 - [Final Project](#final-project)  
   
 ## Purpose
-I created this project to demonstrate my Python and data analysis skills by exploring a synthetic dataset of NVIDIA GPU sales. The analysis especially investigates sales performance, revenue, customer segments, regions, and GPU models.
+I created this project to demonstrate my Python and data analysis skills by exploring a synthetic dataset of NVIDIA GPU sales, and my Tableau skills by presenting the data clearly and cleanly. The analysis especially investigates sales performance, revenue, customer segments, regions, and GPU models.
 
 ## Objectives
 - Analyse factors contributing to overall revenue.  
@@ -39,17 +39,20 @@ I created this project to demonstrate my Python and data analysis skills by expl
 - Derived columns
 - Data aggregation and grouping
 - Statistical analysis
-- Data visualisation with Matplotlib  
+- Data visualisation with Matplotlib
+- Data visualisation with Tableau
   
 ![Static Badge](https://img.shields.io/badge/Soft%20Skills-9994C0)  
 - Interpreting analytical results
 - Communicating insights and recommendations  
+- Visualising results cleanly
   
 ## Key Insights  
 **Key insights I gathered from the analysis were:**  
 - Units Sold has a positive relationship with Revenue, although the relationship is not completely linear, suggesting that other factors also affect Revenue.  
 - GPU Model also has a significant impact, with the B200 generating the highest Revenue, followed by the H200, H100 SXM, RTX 5090 and RTX 4090.    
-- The models generating the most Revenue were not always those with the highest Units Sold, suggesting that pricing and product demand may also contribute. - North America generated the highest Revenue, followed by Europe and Asia, while Gaming and Hyperscale Datacenters were the highest-revenue Customer Segments.
+- The models generating the most Revenue were not always those with the highest Units Sold, suggesting that pricing and product demand may also contribute.  
+- North America generated the highest Revenue, followed by Europe and Asia, while Gaming and Hyperscale Datacenters were the highest-revenue Customer Segments.
 - Retail/E-tail and Cloud Provider were also the highest-revenue Sales Channels.  
 - In a professional setting I would investigate these results further to understand why they were produced. I would look at factors such as pricing, Units Sold, Revenue per Unit, customer behaviour and profit margins to determine what is responsible for the differences in Revenue.
 
@@ -61,13 +64,17 @@ I created this project to demonstrate my Python and data analysis skills by expl
 - Revenue by Region  
 - Revenue by Customer Segment  
 - Revenue by Sales Channel  
-- Correlation Matrix  
+- Correlation Matrix
+
+## Dashboard (Tableau)
+
+![Tableau Dashboard](Assets/GPU_Dashboard.PNG)
  
-## Table Preview  
+## Python Table Preview  
   
 ![Cleaned Table Preview](Assets/GPU_Sales_Table_Preview.PNG)  
 
-## Chart Previews  
+## Python Chart Previews  
 ![Units Sold vs Revenue](Assets/Units_Sold_vs_Revenue_Preview.PNG)  
 
 ![Total Revenue by GPU Model](Assets/Total_Revenue_by_GPU_Model_Preview.PNG)  
@@ -83,7 +90,7 @@ I created this project to demonstrate my Python and data analysis skills by expl
 ![Correlation Matrix](Assets/Correlation_Matrix_Preview.PNG)  
 
 ## Final Project
-**[Go to Final Project](Notebooks/GPU_Sales_Analysis.ipynb)**
+**[Go to Python Final Project](Notebooks/GPU_Sales_Analysis.ipynb)**
+**[Visit Tableau Dashboard](https://public.tableau.com/app/profile/amanda.demiri/viz/GPUSalesPerformance/GPUSalesPerformance)**
 
 ###### Original dataset available in repository
-###### Currently working on Tableau Dashboard for this project
