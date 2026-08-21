@@ -45,7 +45,7 @@ I created this project to demonstrate my Python and data analysis skills by expl
 ![Static Badge](https://img.shields.io/badge/Soft%20Skills-9994C0)  
 - Interpreting analytical results
 - Communicating insights and recommendations  
-- Visualising results cleanly
+- Visualising results clearly
   
 ## Key Insights  
 **Key insights I gathered from the analysis were:**  
