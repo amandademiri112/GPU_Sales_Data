@@ -10,7 +10,7 @@
 - [Skills](#skills)  
 - [Key Insights](#key-insights)  
 - [Visualisations](#visualisations)  
-- [Previews](#cleaned-table-preview)   
+- [Previews](#tableau-dashboard-preview)   
 - [Final Project](#final-project)  
   
 ## Purpose
@@ -66,7 +66,7 @@ I created this project to demonstrate my Python and data analysis skills by expl
 - Revenue by Sales Channel  
 - Correlation Matrix
 
-## Dashboard (Tableau)
+## Tableau Dashboard Preview
 
 ![Tableau Dashboard](Assets/GPU_Dashboard.PNG)
  
@@ -90,7 +90,8 @@ I created this project to demonstrate my Python and data analysis skills by expl
 ![Correlation Matrix](Assets/Correlation_Matrix_Preview.PNG)  
 
 ## Final Project
-**[Go to Python Final Project](Notebooks/GPU_Sales_Analysis.ipynb)**
+**[Go to Python Final Project](Notebooks/GPU_Sales_Analysis.ipynb)**  
+  
 **[Visit Tableau Dashboard](https://public.tableau.com/app/profile/amanda.demiri/viz/GPUSalesPerformance/GPUSalesPerformance)**
 
 ###### Original dataset available in repository
